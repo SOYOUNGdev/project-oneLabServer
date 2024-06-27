@@ -1,6 +1,6 @@
 # 대학 통합 플랫폼 **ONELAB**  
-### 원랩 바로가기 🔗 http://onelab.today/
-<sub><a href="https://github.com/SOYOUNGdev/project_onelab_AI?tab=readme-ov-file">원랩 AI 버전 보러가기</a></sub>
+### 원랩 바로가기 🔗http://onelab.today/ 
+<sub><a href="https://github.com/SOYOUNGdev/project_onelab_AI">원랩 AI 버전 바로가기</a></sub>
 #### 대학생 회원
 - ID: syuni@gmail.com
 - PW: 1234
